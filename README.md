@@ -11,7 +11,7 @@ I'm Araf, a 16 y/o researcher, creator, and innovator. My work revolves around c
 * ✉️  You can contact me at [araf.reshad@gmail.com](mailto:araf.reshad@gmail.com)
 * 🧠  I'm learning the applications of Support Vector Machines (SVMs) on Prenatal Testing to detect genetic aneuploidies
 * 🤝  I'm open to collaborating on projects aligning research, policy, and social impact!
-* ⚡  Would LOVE to chat over Zoom or grab a coffee together in-person (my treat)
+* ⚡  Would LOVE to chat over Zoom or grab a coffee together in-person! (my treat)
 
 ### Skills
 
